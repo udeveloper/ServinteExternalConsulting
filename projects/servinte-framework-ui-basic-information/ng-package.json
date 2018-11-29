@@ -1,0 +1,7 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../dist/servinte-framework-ui-basic-information",
+  "lib": {
+    "entryFile": "src/public_api.ts"
+  }
+}
